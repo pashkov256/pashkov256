@@ -6,6 +6,6 @@
 
 💻Adaptive cross-browser layout. I know and know how to use:
 
-> > -HTML5/CSS3,
-> > -JS, React.js , Node.js
-> > Misha the Bestᅠ
+> -HTML5/CSS3,
+> -JS, React.js , Node.js
+> Misha the Bestᅠ
