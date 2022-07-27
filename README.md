@@ -7,4 +7,4 @@
 > -HTML5/CSS3,
 > -JS, React.js , Node.js
 
-### Misha the Bestᅠ
+### Misha Isakov the Bestᅠ
