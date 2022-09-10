@@ -1,6 +1,6 @@
 # Privet ! I'm Artem
 
-### I am engaged in frontend development
+### I am engaged in frontend and backend development
 
 💻Adaptive cross-browser layout. I know and know how to use:
 
