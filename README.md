@@ -1,7 +1,6 @@
 # Hi there, I'm [Artem](https://github.com/temaweb10) 
 
 ### I am engaged in frontend and backend development
-[![codewars](https://www.codewars.com/users/temaweb10/badges/large)](https://www.codewars.com/users/temaweb10) 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -19,6 +18,7 @@ I am a Frontend and Backend dev  from Russia
 >🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 >🌱 Exploring Technical Content Writing.
 >⚡ In my free time, I solve problems on CodeWars and read tech articles
+
 [![codewars](https://www.codewars.com/users/temaweb10/badges/large)](https://www.codewars.com/users/temaweb10) 
 
 📫How to reach me
