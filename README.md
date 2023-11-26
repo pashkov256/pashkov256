@@ -2,7 +2,9 @@
 
 ### I am engaged in frontend and backend development
 [![codewars](https://www.codewars.com/users/temaweb10/badges/large)](https://www.codewars.com/users/temaweb10) 
-
+<p align="center">
+  <img width="500" height="208" src="https://github.com/Sunil-Pradhan/git-cheat-sheet/blob/master/img/Git-Cheat-Sheet-Logo.png">
+</p>
 💻Adaptive cross-browser layout. I know and know how to use:
  
 > -HTML5/CSS3,
