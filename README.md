@@ -13,21 +13,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-👩‍💻 About Me :
-I am a Frontend and Backend dev  from Russia
->🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
->🌱 Exploring Technical Content Writing.
->⚡ In my free time, I solve problems on CodeWars and read tech articles
 
-### :woman_technologist: About Me :
+
+### 👩‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :telescope: 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: 🌱 Exploring Technical Content Writing.
+- :zap:  In my free time, I solve problems on CodeWars and read tech articles
 
 ---
 
