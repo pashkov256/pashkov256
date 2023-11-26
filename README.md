@@ -1,7 +1,7 @@
 # Hi there, I'm [Artem](https://github.com/temaweb10) 
 
 <div>
- <img src="[https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg](https://images.hdqwalls.com/download/firewatch-forest-mountains-minimalism-4k-hb-2560x1440.jpg)" title="Git" **alt="Git" width="100%" height="250px"/>
+ <img src="https://images.hdqwalls.com/download/firewatch-forest-mountains-minimalism-4k-hb-2560x1440.jpg" title="Git" **alt="Git" width="100%" height="250px"/>
 </div>
 
 ### I am engaged in frontend and backend development , adaptive cross-browser layout. I know and know how to use :
