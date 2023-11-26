@@ -1,7 +1,7 @@
-# Hi there, I'm [Artem](https://github.com/temaweb10) 
+![image](https://github.com/temaweb10/temaweb10/assets/94466508/8cb58e06-3c9f-48df-81ab-839a86bdb976)# Hi there, I'm [Artem](https://github.com/temaweb10) 
 
 <div>
- <img src="https://images.hdqwalls.com/download/firewatch-forest-mountains-minimalism-4k-hb-2560x1440.jpg" title="Git" **alt="Git" width="100%" height="250px"/>
+ <img src="https://github.com/temaweb10/temaweb10/assets/94466508/7ccff756-f111-4d63-9be8-39baca1ba62e"  width="80%" height="250px"/>
 </div>
 
 ### I am engaged in frontend and backend development , adaptive cross-browser layout. I know and know how to use :
