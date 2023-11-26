@@ -3,7 +3,8 @@
     Hi there, I'm [Artem](https://github.com/temaweb10) 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-### I am engaged in frontend and backend development , adaptive cross-browser layout. I know and know how to use :
+  
+<h3>I am engaged in frontend and backend development , adaptive cross-browser layout. I know and know how to use :</h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
