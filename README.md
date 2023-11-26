@@ -14,13 +14,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+👩‍💻 About Me :
+I am a Frontend and Backend dev  from Russia
+>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+>🌱 Exploring Technical Content Writing.
+>⚡ In my free time, I solve problems on CodeWars and read tech articles
+[![codewars](https://www.codewars.com/users/temaweb10/badges/large)](https://www.codewars.com/users/temaweb10) 
 
+📫How to reach me
 💻Adaptive cross-browser layout. I know and know how to use:
 > -HTML5/CSS3,
 > -JS, React.js , Node.js , Express.js , JWT
 
 My static 🔥:
 
-[![Top Langs](https://github.com/anuraghazra/github-readme-stats)
 
 
