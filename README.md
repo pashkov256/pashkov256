@@ -1,6 +1,8 @@
 # Hi there, I'm [Artem](https://github.com/temaweb10) 
 
-### I am engaged in frontend and backend development
+
+
+### I am engaged in frontend and backend development , adaptive cross-browser layout. I know and know how to use :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -14,6 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+
 ### 👩‍💻 About Me :
 I am a Frontend and Backend dev  from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -23,12 +27,8 @@ I am a Frontend and Backend dev  from Russia <img src="https://media.giphy.com/m
 
 ---
 
-📫How to reach me
-💻Adaptive cross-browser layout. I know and know how to use:
-> -HTML5/CSS3,
-> -JS, React.js , Node.js , Express.js , JWT
 
-My static 🔥:
+
 
 
 
