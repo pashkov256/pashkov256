@@ -1,4 +1,4 @@
-# Hi there, I'm [Artem](https://github.com/temaweb10) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+![image](https://github.com/temaweb10/temaweb10/assets/94466508/7ea548d9-6e4d-443a-84a2-7453767066ba)# Hi there, I'm [Artem](https://github.com/temaweb10) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 
 ### I am engaged in frontend and backend development
 [![codewars](https://www.codewars.com/users/temaweb10/badges/large)](https://www.codewars.com/users/temaweb10) 
@@ -16,8 +16,11 @@
 </div>
 
 💻Adaptive cross-browser layout. I know and know how to use:
- 
 > -HTML5/CSS3,
 > -JS, React.js , Node.js , Express.js , JWT
+
+My static 🔥:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
