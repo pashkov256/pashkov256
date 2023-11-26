@@ -7,4 +7,4 @@
 > -HTML5/CSS3,
 > -JS, React.js , Node.js , Express.js , JWT
 
-### Misha Isakov the Bestᅠ
+
