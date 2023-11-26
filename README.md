@@ -16,9 +16,10 @@
 
 ### 👩‍💻 About Me :
 I am a Frontend and Backend dev  from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope:  I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: 🌱 Exploring Technical Content Writing.
-- :zap:  In my free time, I solve problems on CodeWars and read tech articles [![codewars](https://www.codewars.com/users/temaweb10/badges/large)](https://www.codewars.com/users/temaweb10) 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on CodeWars and read tech articles
+- [![codewars](https://www.codewars.com/users/temaweb10/badges/large)](https://www.codewars.com/users/temaweb10) 
 
 ---
 
