@@ -1,4 +1,4 @@
-# Hi there, I'm [Artem](https://github.com/temaweb10) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm [Artem](https://github.com/temaweb10) 
 
 ### I am engaged in frontend and backend development
 [![codewars](https://www.codewars.com/users/temaweb10/badges/large)](https://www.codewars.com/users/temaweb10) 
