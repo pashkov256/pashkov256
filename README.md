@@ -21,12 +21,11 @@
 
 ### 👩‍💻 About Me :
 I am a Frontend and Backend dev  from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- I study at the Nizhny Novgorod College of Information Technology and Law (NTITP). In the second year, information systems and programming
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on CodeWars and read tech articles
+- :zap: In my free time, I solve problems on CodeWars and write technical articles on <a href="https://habr.com/ru/users/temaweb10/publications/articles/">habr</a> 
 - [![codewars](https://www.codewars.com/users/temaweb10/badges/large)](https://www.codewars.com/users/temaweb10)
 - :mailbox:How to reach me: (https://t.me/temasvyaz)
-- <a href="https://habr.com/ru/users/temaweb10/publications/articles/">My articles</a> 
 ---
 
 
