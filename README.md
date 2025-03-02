@@ -23,5 +23,5 @@ I am a Backend dev from Russia <img src="https://media.giphy.com/media/WUlplcMpO
 - :telescope: I’m working as a Software Engineer and contributing to backend.
 - :zap: In my free time, I solve problems on  <a href="https://www.codewars.com/users/temaweb10">codewars</a> and write technical articles on <a href="https://habr.com/ru/users/temaweb10/publications/articles/">habr</a> 
 - [![codewars](https://www.codewars.com/users/temaweb10/badges/large)](https://www.codewars.com/users/temaweb10)
-- :mailbox:How to reach me: (https://t.me/temasvyaz)
+- :mailbox:How to reach me: (https://t.me/pashkov256)
 ---
