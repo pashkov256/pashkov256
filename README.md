@@ -45,7 +45,7 @@
   <br/>
 - [schedify](https://github.com/pashkov256/schedify) - is a simple yet powerful task scheduler _⭐3_
 - [react-file-uploadify](https://github.com/pashkov256/react-file-uploadify) - A flexible and customizable reactjs file library  _⭐3_, more than _📥5k_ downloads
-- [voprosnikum](https://github.com/pashkov256/schedify) - student testing platform for the NTITP Technical College [backend](https://github.com/pashkov256/voprosnikum-backend) _⭐3_ and [frontend](https://github.com/pashkov256/voprosnikum-frontend) _⭐5_
+- [voprosnikum](https://github.com/pashkov256/voprosnikum-frontend) - student testing platform for the NTITP Technical College [backend](https://github.com/pashkov256/voprosnikum-backend) _⭐3_ and [frontend](https://github.com/pashkov256/voprosnikum-frontend) _⭐5_
 ---
 
 ### 🏆 Algo Stats
