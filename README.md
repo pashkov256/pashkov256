@@ -30,12 +30,6 @@
 
 ---
 
-### 🏆 Algo Stats
-https://www.codewars.com/users/temaweb10<br/>
-https://leetcode.com/u/temaweb10/
-
----
-
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -52,6 +46,12 @@ https://leetcode.com/u/temaweb10/
 - [schedify](https://github.com/pashkov256/schedify) - is a simple yet powerful task scheduler _(⭐3)_
 
 ---
+
+### 🏆 Algo Stats
+- [LeetCode](https://leetcode.com/u/temaweb10/)<br/>
+- [Codewars](https://www.codewars.com/users/temaweb10)
+---
+
 
 ### 🤝 Let's Connect
 
