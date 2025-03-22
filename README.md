@@ -30,7 +30,7 @@
 
 ---
 
-### 📚 Latest Blog Posts
+### 📚 Latest Habr Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [AI как новый опиум для разработчиков: Зависимость, которая убивает индустрию](https://habr.com/ru/articles/887076/)
@@ -44,7 +44,8 @@
 - [tcache](https://github.com/pashkov256/tcache ) - high performance and easy-to-use in memory cache with TTL and LRU _(⭐3)_
   <br/>
 - [schedify](https://github.com/pashkov256/schedify) - is a simple yet powerful task scheduler _(⭐3)_
-
+- [react-file-uploadify](https://github.com/pashkov256/react-file-uploadify) - A flexible and customizable reactjs file library  _(⭐3)_, more than _(📥5k)_ downloads
+- [voprosnikum](https://github.com/pashkov256/schedify) - student testing platform for the NTITP Technical College [backend](https://github.com/pashkov256/voprosnikum-backend) _⭐3_ and [frontend](https://github.com/pashkov256/voprosnikum-frontend) _⭐5_
 ---
 
 ### 🏆 Algo Stats
