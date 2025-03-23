@@ -30,7 +30,7 @@
 
 ---
 
-### 📚 Latest Habr Posts
+### 📚 My latest Habr articles
 
 <!-- BLOG-POST-LIST:START -->
 - [AI как новый опиум для разработчиков: Зависимость, которая убивает индустрию](https://habr.com/ru/articles/887076/) - _9.1K👀_
