@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://pashkov256.github.io/about/">Artem Pashkov</a> 
+  Hi there, I'm Artem Pashkov
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
