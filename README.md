@@ -42,7 +42,7 @@
 ---
 
 ### 🏆 Open source 
-- [deletor](https://github.com/pashkov256/deletor) - manage and delete files efficiently with an interactive TUI and scriptable CLI _⭐16_
+- [deletor](https://github.com/pashkov256/deletor) - manage and delete files efficiently with an interactive TUI and scriptable CLI _⭐38_
 - [tcache](https://github.com/pashkov256/tcache ) - high performance and easy-to-use in memory cache with TTL and LRU _⭐4_
   <br/>
 - [schedify](https://github.com/pashkov256/schedify) - is a simple yet powerful task scheduler _⭐3_
