@@ -33,16 +33,17 @@
 ### 📚 My latest Habr articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Разум без жизни: почему ИИ не станет хомо сапиенсом](https://habr.com/ru/articles/910028/) _999+👀_
-- [AI как новый опиум для разработчиков: Зависимость, которая убивает индустрию](https://habr.com/ru/articles/887076/) - _9.1K👀_
-- [Как я делал загрузчик файлов на react и выложил на npm](https://habr.com/ru/articles/807985/) - _3.9K👀_
+- [TUI interfaces don't have to be a pain. I wrote mine with a mouse](https://habr.com/ru/articles/917704/)  _999+👀_
+- [Mind without life: Why AI won't become Homo Sapiens](https://habr.com/ru/articles/910028/) _1.5K+👀_
+- [AI as a New Opium for Developers: The Addiction that is Killing the Industry](https://habr.com/ru/articles/887076/) - _9.1K👀_
+- [How I made a file downloader on react and uploaded it to npm](https://habr.com/ru/articles/807985/) - _3.9K👀_
 <!-- BLOG-POST-LIST:END -->
 
 
 ---
 
 ### 🏆 Open source 
-- [deletor](https://github.com/pashkov256/deletor) - manage and delete files efficiently with an interactive TUI and scriptable CLI _⭐38_
+- [deletor](https://github.com/pashkov256/deletor) - manage and delete files efficiently with an interactive TUI and scriptable CLI _⭐47_
 - [tcache](https://github.com/pashkov256/tcache ) - high performance and easy-to-use in memory cache with TTL and LRU _⭐4_
   <br/>
 - [schedify](https://github.com/pashkov256/schedify) - is a simple yet powerful task scheduler _⭐3_
