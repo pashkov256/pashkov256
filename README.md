@@ -33,11 +33,11 @@
 ### 📚 My latest Habr articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Why GitHub Stars are the best metric for Developer Contributions](https://habr.com/ru/articles/922478/)  _999+👀_
-- [TUI interfaces don't have to be a pain. I wrote mine with a mouse](https://habr.com/ru/articles/917704/)  _3K+👀_
+- [Why GitHub Stars are the best metric for Developer Contributions](https://habr.com/ru/articles/922478/)  _2.8K+👀_
+- [TUI interfaces don't have to be a pain. I wrote mine with a mouse](https://habr.com/ru/articles/917704/)  _3.5K+👀_
 - [Mind without life: Why AI won't become Homo Sapiens](https://habr.com/ru/articles/910028/) _1.6K+👀_
-- [AI as a New Opium for Developers: The Addiction that is Killing the Industry](https://habr.com/ru/articles/887076/) - _9.1K👀_
-- [How I made a file downloader on react and uploaded it to npm](https://habr.com/ru/articles/807985/) - _3.9K👀_
+- [AI as a New Opium for Developers: The Addiction that is Killing the Industry](https://habr.com/ru/articles/887076/) - _9.5K👀_
+- [How I made a file downloader on react and uploaded it to npm](https://habr.com/ru/articles/807985/) - _4K👀_
 <!-- BLOG-POST-LIST:END -->
 
 
