@@ -33,6 +33,7 @@
 ### 📚 My latest Habr articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The right start: how to lay the foundation of a project](https://habr.com/ru/articles/932762/)  _999+👀_
 - [Why GitHub Stars are the best metric for Developer Contributions](https://habr.com/ru/articles/922478/)  _2.8K+👀_
 - [TUI interfaces don't have to be a pain. I wrote mine with a mouse](https://habr.com/ru/articles/917704/)  _3.5K+👀_
 - [Mind without life: Why AI won't become Homo Sapiens](https://habr.com/ru/articles/910028/) _1.6K+👀_
