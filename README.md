@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 - 🌐 Founder of [**_Опенсорсеры_**](https://t.me/OpenSource_Chat)  developer community for sharing projects, finding contributors, and growing in open source together.
-- 🧠 In my free time,  write technical articles on [Habr](https://habr.com/ru/users/temaweb10/publications/articles/) and i solve problems on [Codewars](https://www.codewars.com/users/temaweb10).
+- 🧠 In my free time,  write technical articles on [Habr](https://habr.com/ru/users/temaweb10/publications/articles/) and solve problems on [Codewars](https://www.codewars.com/users/temaweb10).
 - 🎓 I’m currently studying at **Nizhny Novgorod College of Information Technology and Law (NTITP)** in my second year, majoring in **Information Systems and Programming**.
 - 💼 Working as a **Software Engineer** with a focus on backend development.
 - 📫 How to reach me: [Telegram](https://t.me/pashkov256)
