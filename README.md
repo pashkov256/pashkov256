@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">🚀 Software Engineer | 💻 Open Source Enthusiast | 🌍 From Russia</h3>
+<h3 align="center">🚀 Software Engineer | 💻 Open Source Enthusiast | 📝 Tech Writer</h3>
 
 ---
 
