@@ -62,8 +62,11 @@
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://t.me/pashkov256">
+    <a href="https://t.me/pashkov256">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://t.me/OpenSource_Chat">
+    <img src="https://raw.githubusercontent.com/pashkov256/media/refs/heads/main/ops/founder.png" alt="Telegram open source community">
   </a>
   <a href="https://github.com/pashkov256">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
