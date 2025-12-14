@@ -16,7 +16,7 @@
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       I'm the founder of the <b><a href="https://t.me/OpenSource_Chat">Опенсорсеры</a></b> community for Open Source programmers, 
-      a place for developers to share projects, find contributors, and grow together.
+      we help developers get into open source, improve their projects, find contributors, and grow through collaboration and real-world practice.
     </td>
   </tr>
 </table>
