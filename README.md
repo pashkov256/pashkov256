@@ -43,7 +43,7 @@
 ---
 
 ### 📚 My latest articles
-- [Christmas IT Challenge for developers: can you decipher the message?](https://habr.com/ru/articles/976510/)  _3.0K+👀_
+- [Christmas IT Challenge for developers: can you decipher the message?](https://habr.com/ru/articles/976510/)  _6.0K+👀_
 - [Public reviews of your Open Source projects](https://habr.com/ru/articles/973468/)  _5.7K+👀_
 - [The right start: how to lay the foundation of a project](https://habr.com/ru/articles/932762/)  _2.6K+👀_
 - [Why GitHub Stars are the best metric for Developer Contributions](https://habr.com/ru/articles/922478/)  _2.8K+👀_
