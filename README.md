@@ -5,24 +5,21 @@
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td style="vertical-align: middle;">
-      <a href="https://t.me/OpenSource_Chat">
-        <img src="https://github.com/OpenSourceDevsHub/media/blob/main/logotypes/Group%2064.png?raw=true" 
-             width="120" 
-             alt="OSS Community Logo"/>
-      </a>
-    </td>
-    <td style="vertical-align: middle; padding-left: 20px;">
-      I'm the founder of the <b><a href="https://t.me/OpenSource_Chat">Опенсорсеры</a></b> community for Open Source programmers, 
-      we help developers get into open source, improve their projects, find contributors, and grow through collaboration and real-world practice.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://t.me/OpenSource_Chat">
+    <img src="https://github.com/OpenSourceDevsHub/media/blob/main/logotypes/OPS_256png.png?raw=true" 
+         width="100" 
+         alt="OSS Community Logo"/>
+  </a>
+</p>
 
-- 🧠 In my free time, I write technical articles on [Habr](https://habr.com/ru/users/temaweb10/publications/articles/) and solve problems on [Codewars](https://www.codewars.com/users/temaweb10).
-- 🎓 I’m currently studying in my second year at **Nizhny Novgorod College of Information Technology and Law (NTITP)**, majoring in **Information Systems and Programming**.
+<p align="center">
+  Основатель сообщества <b><a href="https://t.me/OpenSource_Chat">Опенсорсеры</a></b>, это место для разработчиков, здесь любой может поделится своими проектами, получить конструктивный разбор проекта, найти первых контрибьюторов и просто лампово общаться об айти и не только.
+</p>
+
+<br/>
+
+- 🧠 In my free time, I write technical articles on [Habr](https://habr.com/ru/users/temaweb10/publications/articles/) and Telegram [Blog]().
 - 💼 Working as a **Software Engineer** with a focus on backend development.
 - 📫 How to reach me: [Telegram](https://t.me/pashkov256)
   
@@ -55,7 +52,7 @@
 ---
 
 ### 🏆 Open source 
-- [deletor](https://github.com/pashkov256/deletor) - manage and delete files efficiently with an interactive TUI and scriptable CLI _⭐97_ ([**Tool of The Week**](https://terminaltrove.com/deletor/))
+- [deletor](https://github.com/pashkov256/deletor) - manage and delete files efficiently with an interactive TUI and scriptable CLI _⭐150_ ([**Tool of The Week**](https://terminaltrove.com/deletor/))
 - [Christmas-Contest-2025](https://github.com/OpenSourceDevsHub/Christmas-Contest-2025) - IT challenge for developers: Decrypt the hidden message using your own script. Prize: 1 year subscribe Telegram Premium or 2k TG stars
 - [react-file-uploadify](https://github.com/pashkov256/react-file-uploadify) - A flexible and customizable reactjs file library  _⭐3_, more than _📥5k_ downloads
 - [voprosnikum](https://github.com/pashkov256/voprosnikum-frontend) - student testing platform for the NTITP Technical College [backend](https://github.com/pashkov256/voprosnikum-backend) _⭐3_ and [frontend](https://github.com/pashkov256/voprosnikum-frontend) _⭐5_
