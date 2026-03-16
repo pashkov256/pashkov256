@@ -51,22 +51,19 @@
 - [How I made a file downloader on react and uploaded it to npm](https://habr.com/ru/articles/807985/) - _4K👀_
 ---
 
-### 🏆 Open source 
-- [deletor](https://github.com/pashkov256/deletor) - manage and delete files efficiently with an interactive TUI and scriptable CLI _⭐150_ ([**Tool of The Week**](https://terminaltrove.com/deletor/))
-- [Christmas-Contest-2025](https://github.com/OpenSourceDevsHub/Christmas-Contest-2025) - IT challenge for developers: Decrypt the hidden message using your own script. Prize: 1 year subscribe Telegram Premium or 2k TG stars
-- [react-file-uploadify](https://github.com/pashkov256/react-file-uploadify) - A flexible and customizable reactjs file library  _⭐3_, more than _📥5k_ downloads
-- [voprosnikum](https://github.com/pashkov256/voprosnikum-frontend) - student testing platform for the NTITP Technical College [backend](https://github.com/pashkov256/voprosnikum-backend) _⭐3_ and [frontend](https://github.com/pashkov256/voprosnikum-frontend) _⭐5_
-
 
 ### 🤝 Let's Connect
 
 <div align="center">
+  
     <a href="https://t.me/pashkov256">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
+  
   <a href="https://github.com/pashkov256">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  
 </div>
 
 ---
