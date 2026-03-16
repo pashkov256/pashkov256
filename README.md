@@ -52,22 +52,6 @@
 ---
 
 
-### 🤝 Let's Connect
-
-<div align="center">
-  
-    <a href="https://t.me/pashkov256">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  
-  <a href="https://github.com/pashkov256">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  
-</div>
-
----
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=temaweb10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
