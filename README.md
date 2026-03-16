@@ -19,7 +19,7 @@
 
 <br/>
 
-- 🧠 In my free time, I write technical articles on [Habr](https://habr.com/ru/users/temaweb10/publications/articles/) and Telegram [Blog]().
+- 🧠 In my free time, I write technical articles on [Habr](https://habr.com/ru/users/temaweb10/publications/articles/) and Telegram [Blog](https://t.me/pashkov2560).
 - 💼 Working as a **Software Engineer** with a focus on backend development.
 - 📫 How to reach me: [Telegram](https://t.me/pashkov256)
   
